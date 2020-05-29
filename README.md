@@ -5,6 +5,16 @@
 <img src="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning/blob/master/screenshots/banner.PNG">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning/tree/master/screenshots">click here</a>
 
+# File and Directory Structure
+<pre>
+screenshots - Screenshots of Web App
+static - static files of flask app: css, images, js, etc.
+templates - html files
+Tweets.py - structure of Tweets for sentiment Analysis
+constants.py - config file for app with Twitter API keys and other details
+main.py - main machine learning module
+</pre>
+
 # Technologies Used
 <ul>
 <a href="https://wordpress.org/"><li>Wordpress</a></li>
